@@ -1,0 +1,3 @@
+[submodule "haskell-vim-proto"]
+	path = haskell-vim-proto
+	url = https://github.com/sdiehl/haskell-vim-proto
